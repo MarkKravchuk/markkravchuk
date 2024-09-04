@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏼‍💻 Full-stack developer at Fixico<br>📍Located in Amsterdam
+🧑🏼‍💻 CTO & Co-Founder at FarmToHome<br>📍Located in Amsterdam
 
 
 ## 🌐 Socials:
